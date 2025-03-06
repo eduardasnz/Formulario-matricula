@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  top: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -40,4 +40,8 @@
   --violet: #C3B2E7;
   --pink: #F682A5;
   
+}
+
+body {
+
 }
